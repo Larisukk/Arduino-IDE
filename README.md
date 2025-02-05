@@ -1,4 +1,4 @@
-# Arduino-IDE
+# BMO
 ## Descrierea realizarii:
 > [!NOTE]
 > Asta e tot ce depinde de descriere:
